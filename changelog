@@ -1,5 +1,5 @@
-cyassl (2.7.0-1) unstable; urgency=low
+cyassl (2.7.0-1) precise; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * Initial release
 
- -- Endre Karlson <root@unknown>  Thu, 29 Aug 2013 17:47:05 +0000
+ -- Endre Karlson <endre.karlson@hp.com>  Thu, 29 Aug 2013 17:47:05 +0000
