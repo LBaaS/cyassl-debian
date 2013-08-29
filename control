@@ -1,0 +1,14 @@
+Source: cyassl
+Section: libs
+Priority: extra
+Maintainer: Endre Karlson <endre.karlson@hp.com>
+Build-Depends: debhelper (>= 8.0.0), autotools-dev
+Standards-Version: 3.9.2
+Homepage: http://www.yassl.com/yaSSL/Products-cyassl.html
+#Vcs-Git: git://git.debian.org/collab-maint/cyassl.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/cyassl.git;a=summary
+ 
+Package: cyassl
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: CyaSSL libraries and headers.
