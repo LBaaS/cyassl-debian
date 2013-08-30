@@ -10,4 +10,7 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ 
+	dh $@ --disable-fastmath
+
+override_dh_auto_configure:
+	dh_auto_configure -- --disable-fastmath

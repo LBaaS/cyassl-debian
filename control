@@ -9,6 +9,6 @@ Homepage: http://www.yassl.com/yaSSL/Products-cyassl.html
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/cyassl.git;a=summary
  
 Package: cyassl
-Architecture: amd64
+Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: CyaSSL libraries and headers.
