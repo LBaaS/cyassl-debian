@@ -1,5 +1,11 @@
 cyassl (2.7.0-2) precise; urgency=low
 
+  * Change version to indicate libra1
+
+ -- Endre Karlson <endre.karlson@hp.com>  Thu, 02 Sep 2013 23:13:05 +0000
+
+cyassl (2.7.0-2) precise; urgency=low
+
   * Disable fastmath and add back any arch
 
  -- Endre Karlson <endre.karlson@hp.com>  Thu, 30 Aug 2013 17:50:05 +0000
