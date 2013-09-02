@@ -1,4 +1,4 @@
-cyassl (2.7.0-2) precise; urgency=low
+cyassl (2.7.0-2) precise; urgency=high
 
   * Change version to indicate libra1
 
