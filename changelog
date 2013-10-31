@@ -1,3 +1,9 @@
+cyassl (2.8.0-2) precise; urgency=high
+
+  * Initial 2.8.0 release
+
+ -- David Shrewsbury <shrewsbury.dave@gmail.com>   Wed, 30 Oct 2013 16:58:54 -0400
+
 cyassl (2.7.0-2libra1) precise; urgency=high
 
   * Change version to indicate libra1
